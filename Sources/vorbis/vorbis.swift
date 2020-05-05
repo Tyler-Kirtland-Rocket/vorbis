@@ -1,3 +1,3 @@
-struct vorbis {
-    var text = "Hello, World!"
+public struct MyStruct {
+    public static let text = "Testing"
 }
